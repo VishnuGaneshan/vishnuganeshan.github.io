@@ -1,0 +1,26 @@
+body{
+    background-color: #e9483c;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url("./images/code.png");
+    background-attachment:fixed;
+}
+
+.platform {
+    width: fit-content;
+}
+
+.card{
+    padding: 20px;
+    background-color: #062833ea;
+}
+
+.pt-icon{
+    color: white;
+    border: 1px white solid;
+}
+
+.welcome{
+    margin: 20px;
+}
